@@ -12,6 +12,10 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "bugs": {
     "url": "https://github.com/Ogurchik-007/frontend-project-lvl1/issues"
   },
